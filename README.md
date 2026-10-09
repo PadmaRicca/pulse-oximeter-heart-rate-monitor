@@ -2,6 +2,7 @@
 
 **Project Level:** Advanced Undergraduate
 
+**Author:** Padma Michela Ricca  
 **Institution:** Middlesex University London  
 **Degree:** BEng (Hons) Biomedical Engineering  
 **Module:** BMS3636 (Principles of Medical Electronics)  
